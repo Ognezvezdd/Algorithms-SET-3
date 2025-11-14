@@ -1,4 +1,5 @@
-# Algorithms-SET-3
+# Algorithms-SET-3-A1
+# Задача A1
 # Monte-Carlo: пересечение 3 кругов
 
 ## Author: Капогузов Максим, БПИ246
